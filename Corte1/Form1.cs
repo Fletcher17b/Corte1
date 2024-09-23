@@ -47,7 +47,16 @@ namespace Corte1
                     MessageBox.Show("ERRPR");
                 }
 
-               registro.input(index,txb_name.Text,txb_lastname.Text, dtp_fnac.Value,temp);
+                if(Calculo.calc_edad(dtp_fnac.Value) > 18 )
+                {
+                    MessageBox.Show("eres mayor de 18, toma una bicha");
+                }
+                else
+                {
+                    MessageBox.Show("no eres mayor de 18, da igual, toma una bicha");
+                }
+
+                registro.input(index,txb_name.Text,txb_lastname.Text, dtp_fnac.Value,temp);
               //  Console.WriteLine($"{registro.array_persona[index].name}, {registro.array_persona[index].ciudad},{cmb_ciudad.SelectedIndex.ToString()}");
                 
                index++;

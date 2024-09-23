@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8ACAAA99-BA53-4892-81B5-4D7397551C7C}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8ACAAA99-BA53-4892-81B5-4D7397551C7C}|Corte1\\Corte1.csproj|c:\\users\\mario\\documents\\uam s2 metpro\\corte1 repo\\corte1\\corte1\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACAAA99-BA53-4892-81B5-4D7397551C7C}|Corte1\\Corte1.csproj|solutionrelative:corte1\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ACAAA99-BA53-4892-81B5-4D7397551C7C}|Corte1\\Corte1.csproj|c:\\users\\mario\\documents\\uam s2 metpro\\corte1 repo\\corte1\\corte1\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ACAAA99-BA53-4892-81B5-4D7397551C7C}|Corte1\\Corte1.csproj|solutionrelative:corte1\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,14 +40,28 @@
               "RelativeDocumentMoniker": "Corte1\\Form1.cs",
               "ToolTip": "C:\\Users\\Mario\\Documents\\UAM S2 MetPro\\Corte1 repo\\Corte1\\Corte1\\Form1.cs",
               "RelativeToolTip": "Corte1\\Form1.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAmwDYAAAAkAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T14:23:12.922Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Calculo.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Documents\\UAM S2 MetPro\\Corte1 repo\\Corte1\\Corte1\\Models\\Calculo.cs",
+              "RelativeDocumentMoniker": "Corte1\\Models\\Calculo.cs",
+              "ToolTip": "C:\\Users\\Mario\\Documents\\UAM S2 MetPro\\Corte1 repo\\Corte1\\Corte1\\Models\\Calculo.cs",
+              "RelativeToolTip": "Corte1\\Models\\Calculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:45:30.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\Documents\\UAM S2 MetPro\\Corte1 repo\\Corte1\\Corte1\\Models\\Registro.cs",
               "RelativeDocumentMoniker": "Corte1\\Models\\Registro.cs",
@@ -56,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\Documents\\UAM S2 MetPro\\Corte1 repo\\Corte1\\Corte1\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Corte1\\Models\\Persona.cs",
@@ -69,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mario\\Documents\\UAM S2 MetPro\\Corte1 repo\\Corte1\\Corte1\\Form1.cs",
               "RelativeDocumentMoniker": "Corte1\\Form1.cs",
