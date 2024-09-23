@@ -37,6 +37,7 @@
             this.dtp_fnac = new System.Windows.Forms.DateTimePicker();
             this.cmb_ciudad = new System.Windows.Forms.ComboBox();
             this.btn_add = new System.Windows.Forms.Button();
+            this.btn_show_edad = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -115,11 +116,22 @@
             this.btn_add.UseVisualStyleBackColor = true;
             this.btn_add.Click += new System.EventHandler(this.btn_add_Click);
             // 
+            // btn_show_edad
+            // 
+            this.btn_show_edad.Location = new System.Drawing.Point(122, 241);
+            this.btn_show_edad.Name = "btn_show_edad";
+            this.btn_show_edad.Size = new System.Drawing.Size(75, 23);
+            this.btn_show_edad.TabIndex = 9;
+            this.btn_show_edad.Text = "Mostrar edad";
+            this.btn_show_edad.UseVisualStyleBackColor = true;
+            this.btn_show_edad.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_show_edad);
             this.Controls.Add(this.btn_add);
             this.Controls.Add(this.cmb_ciudad);
             this.Controls.Add(this.dtp_fnac);
@@ -147,6 +159,7 @@
         private System.Windows.Forms.DateTimePicker dtp_fnac;
         private System.Windows.Forms.ComboBox cmb_ciudad;
         private System.Windows.Forms.Button btn_add;
+        private System.Windows.Forms.Button btn_show_edad;
     }
 }
 

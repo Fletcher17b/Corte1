@@ -64,5 +64,21 @@ namespace Corte1
             catch (Exception ex) { }
             
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (index == 0)
+            {
+                return;
+            }
+            if (Calculo.calc_edad(registro.array_persona[index--].fecha_nac) > 18)
+            {
+                MessageBox.Show("eres mayor de 18, toma una bicha");
+            }
+            else
+            {
+                MessageBox.Show("no eres mayor de 18, da igual, toma una bicha");
+            }
+        }
     }
 }
